@@ -1,4 +1,4 @@
-package String;
+package StringMethod;
 
 public class Student {
     public static void main(String[] args) {

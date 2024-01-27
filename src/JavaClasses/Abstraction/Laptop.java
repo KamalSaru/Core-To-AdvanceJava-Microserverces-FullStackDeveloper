@@ -1,4 +1,4 @@
-package Abstraction;
+package JavaClasses.Abstraction;
 
 public  abstract class Laptop {
     void brand(){

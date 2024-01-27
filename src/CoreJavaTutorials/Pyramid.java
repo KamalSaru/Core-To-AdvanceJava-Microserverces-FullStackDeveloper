@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJavaTutorials;
 
 public class Pyramid {
     public static void main(String[] args) {

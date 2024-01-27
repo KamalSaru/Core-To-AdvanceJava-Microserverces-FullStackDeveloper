@@ -1,4 +1,4 @@
-package String;
+package StringMethod;
 
 public class Subject {
     public static void main(String[] args) {
@@ -21,13 +21,13 @@ public class Subject {
         System.out.println("length = "+language.length());
         System.out.println("length = "+ description.length());
 
-        //toUppercase()---It will make String in Uppercase
+        //toUppercase()---It will make StringMethod in Uppercase
         System.out.println("Uppercase = "+language.toUpperCase());
 
-        //toLowercase()---It will make String in Lowercase
+        //toLowercase()---It will make StringMethod in Lowercase
         System.out.println("Lower : " + language.toLowerCase());
 
-        //compareTo()--It compare String in terms of alphabet order
+        //compareTo()--It compare StringMethod in terms of alphabet order
         System.out.println("Compare to = "+language.compareTo(language1));
 
         //replace()--It will replace the matching character from the string
@@ -36,7 +36,7 @@ public class Subject {
         //substring()--It will make a Substring according to your condition
         System.out.println("Substring = "+description.substring(0, 7));
 
-        //contains ---Ti check the String weather that string contains that character level
+        //contains ---Ti check the StringMethod weather that string contains that character level
 
     }
 }

@@ -1,6 +1,6 @@
-package Abstraction;
+package JavaClasses.Abstraction;
 
-//Abstraction can one time extend but Interface can multiple time
+//JavaClasses.Interface.Abstraction can one time extend but JavaClasses.Interface can multiple time
 //Before we need to extend and we can implement
 public class Main {
     public static void main(String[] args) {

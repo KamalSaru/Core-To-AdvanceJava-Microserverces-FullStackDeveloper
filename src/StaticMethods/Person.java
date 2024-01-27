@@ -1,4 +1,4 @@
-package Static;
+package StaticMethods;
 
 public class Person {
     int age;

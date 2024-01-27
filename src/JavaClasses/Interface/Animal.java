@@ -1,4 +1,4 @@
-package Interface;
+package JavaClasses.Interface;
 
 public interface Animal {
     public void animalSound();

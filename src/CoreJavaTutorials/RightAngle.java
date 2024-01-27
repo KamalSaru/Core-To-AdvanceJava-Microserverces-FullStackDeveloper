@@ -1,4 +1,4 @@
-package CoreJava;
+package CoreJavaTutorials;
 
 public class RightAngle {
     public static void main(String args[]) {

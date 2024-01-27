@@ -1,4 +1,4 @@
-package Static;
+package StaticMethods;
 
 public class StudentDetails {
     static String firstName = "Kamal";

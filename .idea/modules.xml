@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KuebikoIT.iml" filepath="$PROJECT_DIR$/KuebikoIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava-JEE-MicroService-FullStackDeveloper.iml" filepath="$PROJECT_DIR$/CoreJava-JEE-MicroService-FullStackDeveloper.iml" />
     </modules>
   </component>
 </project>

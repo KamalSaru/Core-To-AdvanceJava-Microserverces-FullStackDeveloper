@@ -1,4 +1,4 @@
-package String;
+package StringMethod;
 
 public class stingPractice {
     public static void main(String[] args) {

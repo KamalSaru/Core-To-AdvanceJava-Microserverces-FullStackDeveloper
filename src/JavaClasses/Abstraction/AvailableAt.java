@@ -1,4 +1,4 @@
-package Abstraction;
+package JavaClasses.Abstraction;
 
 public class AvailableAt extends Laptop{
     @Override

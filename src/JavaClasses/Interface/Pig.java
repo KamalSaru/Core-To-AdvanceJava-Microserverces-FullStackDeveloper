@@ -1,6 +1,8 @@
-package Interface;
+package JavaClasses.Interface;
 
-public class Pig implements Animal{
+import JavaClasses.Interface.Animal;
+
+public class Pig implements Animal {
     public void animalSound(){
         System.out.println("The pig says: wee wee...");
     }
