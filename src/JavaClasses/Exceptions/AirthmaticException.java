@@ -2,7 +2,7 @@ package JavaClasses.Exceptions;
 
 import java.util.Scanner;
 
-public class AirthmaticException {
+public class AirthmaticException extends Throwable {
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
         System.out.print("Enter the first number :- ");
