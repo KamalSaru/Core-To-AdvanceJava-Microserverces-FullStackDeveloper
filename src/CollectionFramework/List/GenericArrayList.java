@@ -5,6 +5,8 @@ import java.util.ArrayList;
 public class GenericArrayList {
     public static void main(String[] args) {
         //Generic arraylist only one data types---------
+        //Access and manipulate the value
+        //Take duplicate value----
         ArrayList<Integer> list=new ArrayList<Integer>();
         list.add(7);
         list.add(11);
