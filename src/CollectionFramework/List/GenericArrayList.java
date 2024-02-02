@@ -17,7 +17,7 @@ public class GenericArrayList {
 
         System.out.println("Elements of the list are :- "+list);
         System.out.println("After Iterating :- ");
-        for (Integer element : list){
+        for (Integer element : list){ //Iterate
             System.out.println(element);
         }
 
